@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T06:18:15.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="qXoI9UwvVlyct6cdumlj" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-14T09:19:18.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="p1S7HV_dpG-44TyPBCdZ" version="14.3.1" type="github" pages="3">
   <diagram id="65DGkv6XezY2BOXHAInK" name="Database">
     <mxGraphModel dx="2480" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JM-0QrOW5Drb5OklThry" name="Project Breakdown">
-    <mxGraphModel dx="1021" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NicjyYpOeu8Dxe6NpYTT-0" />
         <mxCell id="NicjyYpOeu8Dxe6NpYTT-1" parent="NicjyYpOeu8Dxe6NpYTT-0" />
@@ -246,28 +246,31 @@
           <mxGeometry x="80" y="110" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TjoiifD5DtH69wgMe40B-1" value="Products Page" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
-          <mxGeometry x="290" y="110" width="190" height="30" as="geometry" />
+          <mxGeometry x="290" y="110" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TjoiifD5DtH69wgMe40B-2" value="Cart&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
-          <mxGeometry x="290" y="140" width="190" height="30" as="geometry" />
+        <mxCell id="TjoiifD5DtH69wgMe40B-2" value="Cart Screen&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
+          <mxGeometry x="290" y="180" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TjoiifD5DtH69wgMe40B-3" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
           <mxGeometry x="80" y="310" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="TjoiifD5DtH69wgMe40B-4" value="Authentication" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
-          <mxGeometry x="290" y="310" width="190" height="30" as="geometry" />
+          <mxGeometry x="290" y="310" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjoiifD5DtH69wgMe40B-5" value="Order Mangement" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
-          <mxGeometry x="290" y="370" width="190" height="30" as="geometry" />
+          <mxGeometry x="290" y="410" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TjoiifD5DtH69wgMe40B-6" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
-          <mxGeometry x="290" y="340" width="190" height="30" as="geometry" />
+          <mxGeometry x="290" y="360" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TjoiifD5DtH69wgMe40B-7" value="Admin Controls" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
-          <mxGeometry x="290" y="400" width="190" height="30" as="geometry" />
+          <mxGeometry x="290" y="470" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TjoiifD5DtH69wgMe40B-9" value="Bootstrap&lt;br&gt;Redux&lt;br&gt;Local Storage" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
+        <mxCell id="TjoiifD5DtH69wgMe40B-9" value="React&lt;br&gt;Bootstrap&lt;br&gt;Context API&lt;br&gt;Local Storage" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
           <mxGeometry x="480" y="110" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="l-HT8EaNAH0w82tbE14B-0" value="Login and Register" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontSize=12;" vertex="1" parent="NicjyYpOeu8Dxe6NpYTT-1">
+          <mxGeometry x="290" y="250" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
